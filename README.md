@@ -1,1 +1,1 @@
-#DDPM Pipeline#
+#DDPM Pipeline
