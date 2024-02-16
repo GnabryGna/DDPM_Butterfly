@@ -1,1 +1,1 @@
-#DDPM Pipeline
+Practice DDPM Pipeline by use Butterflies gen
